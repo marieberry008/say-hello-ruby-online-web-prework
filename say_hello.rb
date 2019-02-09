@@ -1,2 +1,1 @@
-name = "Gabriela"
-puts "Hello #{name}!"
+def 
