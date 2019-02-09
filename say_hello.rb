@@ -1,2 +1,2 @@
-name = "Kent Beck"
+name = "Gabriela"
 puts "Hello #{name}!"
