@@ -1,3 +1,3 @@
 def greeting
-  name = "Gabriella"
+  name = "Kent Beck"
   puts "Hello #{name}
