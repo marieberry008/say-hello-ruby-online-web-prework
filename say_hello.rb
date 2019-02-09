@@ -1,2 +1,2 @@
 name = "Kent Beck"
-puts "Hello #{name}!"
+print "Hello #{name}!"
