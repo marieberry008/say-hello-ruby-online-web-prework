@@ -1,3 +1,2 @@
 name = "Kent Beck"
-$stdou 
-puts "Hello #{name}"
+puts "Hello #{name}!"
