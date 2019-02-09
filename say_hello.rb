@@ -1,1 +1,3 @@
-# Build your say_hello method here
+name = "Kent Beck"
+$stdou 
+puts "Hello #{name}"
